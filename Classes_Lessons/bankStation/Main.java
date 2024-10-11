@@ -25,7 +25,7 @@ public class Main{
       if (mode == 2) sacar(bank);
       if (mode == 3) depositar(bank);
       if (mode == 4) verificarSaldo(bank);
-      if (mode == 5) alterarInformacoes(client); // v
+      if (mode == 5) alterarInformacoes(client);
       if (mode == 6) mostrarDados(client);
       if (mode == 7) emitirFatura(bank);
       if (mode == 0) {

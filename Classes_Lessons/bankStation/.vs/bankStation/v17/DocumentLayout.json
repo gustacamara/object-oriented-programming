@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gusta\\OneDrive - Grupo Marista\\PUCPR\\03 - BCCPUC\\Object_Oriented_Programming\\Classes_Lessons\\bankStation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gusta\\OneDrive - Grupo Marista\\PUCPR\\03 - BCCPUC\\Object_Oriented_Programming\\Classes_Lessons\\bankStation\\Main.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Main.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gusta\\OneDrive - Grupo Marista\\PUCPR\\03 - BCCPUC\\Object_Oriented_Programming\\Classes_Lessons\\bankStation\\Client.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Client.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.java",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive - Grupo Marista\\PUCPR\\03 - BCCPUC\\Object_Oriented_Programming\\Classes_Lessons\\bankStation\\Client.java",
+              "RelativeDocumentMoniker": "Client.java",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive - Grupo Marista\\PUCPR\\03 - BCCPUC\\Object_Oriented_Programming\\Classes_Lessons\\bankStation\\Client.java",
+              "RelativeToolTip": "Client.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-02T19:51:11.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.java",
+              "DocumentMoniker": "C:\\Users\\Gusta\\OneDrive - Grupo Marista\\PUCPR\\03 - BCCPUC\\Object_Oriented_Programming\\Classes_Lessons\\bankStation\\Main.java",
+              "RelativeDocumentMoniker": "Main.java",
+              "ToolTip": "C:\\Users\\Gusta\\OneDrive - Grupo Marista\\PUCPR\\03 - BCCPUC\\Object_Oriented_Programming\\Classes_Lessons\\bankStation\\Main.java",
+              "RelativeToolTip": "Main.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-02T19:50:49.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
